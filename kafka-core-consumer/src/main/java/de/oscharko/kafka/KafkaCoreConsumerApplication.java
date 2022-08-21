@@ -1,4 +1,4 @@
-package de.oscharko.kafka.kafkacoreconsumer;
+package de.oscharko.kafka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

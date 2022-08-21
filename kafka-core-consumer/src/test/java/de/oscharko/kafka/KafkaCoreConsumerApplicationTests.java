@@ -1,4 +1,4 @@
-package de.oscharko.kafka.kafkacoreconsumer;
+package de.oscharko.kafka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
