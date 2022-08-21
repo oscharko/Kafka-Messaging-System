@@ -13,7 +13,7 @@ import org.springframework.stereotype.Service;
  * Inside the package - de.oscharko.kafka.consumer
  * --------------------
  */
-@Service
+/*@Service*/
 public class HelloKafkaConsumer {
 
     @KafkaListener(topics = "t-hello")
